@@ -48,3 +48,8 @@ Data Monitoring: Continuous monitoring of network traffic using intrusion detect
 Data Integrity Checks: Regular integrity checks and hashing algorithms (e.g., SHA-256) are used to ensure that the data has not been tampered with during transmission.
 
 Access Control: Role-based access control (RBAC) policies are implemented to restrict data access to authorized personnel only, based on their roles and responsibilities within the organization
+
+##--Update 1--
+###Description : As an update, I missed an integral part of the network, the employees also needs to communicate with other offices which are located in different countries and for that there has to be a wireless connection which connects the Regional server to the global one.
+So, here is the updated network which represents the overall network architecture along with labelling for regional locations.
+![image](https://github.com/Leisure-Codes/Optimized-Network-Architecture-for-Power-Generation-System-Test-Sites./assets/83419227/ec897b13-79fa-4ec7-a433-32a2c4f2a56b)
